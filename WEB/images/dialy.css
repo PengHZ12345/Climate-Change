@@ -1,0 +1,33 @@
+#main {
+	width:1116px;
+	height:2000px;
+}
+#title {
+	font-size:45px;
+	font-weight:bold;
+	color:#007979;
+	text-align:center;
+}
+
+.dialy-main0 {
+	height:110px;
+}
+.dialy-main1 .week {
+	width:1116px;
+	height:100px;
+	background:#6FB7B7;
+	margin-top:50px;
+	border:2px solid #bebebe;
+}
+.dialy-main1 .week h2 a{
+	display:block;
+	font-size:24px;
+	color:white;
+	line-height:100px;
+	margin-left:50px;
+	width:1116px;
+	height:100px;
+}
+.dialy-main1 .week h2 a:hover {
+	cursor:pointer;
+}

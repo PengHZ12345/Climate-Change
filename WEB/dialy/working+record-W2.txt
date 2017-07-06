@@ -1,0 +1,109 @@
+	Monday, June 26th 
+	Part 1
+	Task 1: find out the reasons of global climate change (Yalan Zhao, Kaiyin Wu)
+	Task 2: find out the reflection of climate change (Meng Wei, Yi Xu)
+	Task 3: find out the most lately solutions to climate change (Yimin Zhou, Zepeng Hu)
+
+	Task 1: find out the reasons of global climate change 
+	* 5% nature factor: solar cycle
+	* 95% human factors: fossil fuel combustion, land over-usage, animal industry, agriculture pollution, etc. 
+	Task 2: find out the reflection of climate change
+	* Global temperature rise 
+	* Sea surface rise, sea water temperature rise, ocean acidification, glacial ablation, extreme weathers or disasters, 
+	ecosystem unbalance, participation and evaporation capacity change. 
+	Task 3: find out the most lately solutions to climate change
+	* Adaptation solution: architecture, rivers, dam, 
+	* Mitigation solution: Carbon production process+ Carbon transport process
+	Energy efficiency + Renewable energy + Carbon capture and storage (CSS) 
+
+	Part 2
+	Task 1: what is the current global governance structure? (Kaiyin Wu)
+	Task 2: what is the structure of United Nations today? (Yi Xu)
+	Task 3: what is the problem of the current governance structure? (Meng Wei)
+	Task 4: what reforming direction have all sectors of the society pointed out? (Yalan Zhao, Zepeng Hu)
+	Task 5: What good or bad cases can we find? (Yimin Zhou)
+
+	Task 1: what is the current global governance structure? (Kaiyin Wu)
+
+	Task 2: what is the structure of United Nations today? (Yi Xu)
+	Task 3: what is the problem of the current governance structure? (Meng Wei)
+	* Friable governance structure
+	* Weak mandotory
+	Task 4: what reforming direction have all sectors of the society pointed out? (Yalan Zhao, Zepeng Hu)
+	* Equality of states --> communities of interest -->communities in responsibility --> communities of destiny 
+	* Global democratic deficit (程序民主 VS 实质民主)
+	* United law, together with united enforcement capacity 
+	Task 5: What good or bad cases can we find? (Yimin Zhou)
+	* 联合国气候变化框架公约(United Nations Framework Convention on Climate Change)
+
+
+	Tuesday, June 27th 
+	Task 1: What’s influence does Amazon Rainforest has? (Yimin Zhou)
+	Task 2: Yalan Zhao sharing: Earth Water Circulation system 
+	Task 3: further study on the problems of current problems of the global governance model (Meng Wei)
+	Task 4: Identify the two levels of the independent factors 
+	Task 5: What good cases we can find in some specific countries? 
+
+	Task 1: What’s influence does Amazon Rainforest has? (Yimin Zhou)
+	Task 2: Yalan Zhao sharing: Earth Water Circulation system 
+	Task 3: further study on the problems of current problems of the global governance model (Meng Wei)
+	* Loose governance capacity
+	* Unable to solve the interest conflicts
+	1) Economy development differentiation 
+	2) Ideologies differentiation
+	3) Geopolitics existence 
+	Task 4: Identify the two levels of the independent factors 
+	First level factor: 
+	- participation capacity, evaporation capacity, GDP per capital, 
+	- Population growth rate, CO2 emission, forest cover
+	Second level factor: temperature rise 
+	Task 5: What good cases we can find in some specific countries? 
+	Japan: great public voice + political party support (1970) + legal benefit + environment assessment system
+	UK: long-term legislation enforcement + energy efficiency rating 
+	Germany: legislation on land use
+
+
+
+	Wednesday, June 28th 
+	Task 1: What statistical method can we use when finding the relations with the factors? 
+	Task 2: what further problems can be found in the current global governance model? 
+	Task 3: what response did some specific countries have to the agreements？ 
+
+	Task 1: What statistical method can we use when finding the relations with the factors? 
+	AHP：analytic hierarchy process
+	Task 2: what further problems can be found in the current global governance model? 
+	- Low barrier for exit, 
+	- poor motivation system, 
+	- poor supervision and monitoring system
+	Task 3: what response did some specific countries have to the agreements？
+	“Adoption, sign, join” are different. 
+	See WRI-World resource institute to find the tracking system 
+	http://www.wri.org/resources/maps/paris-agreement-tracker
+	http://www.wri.org/faqs-about-how-paris-agreement-enters-force
+
+
+
+	Thursday June 29th 
+	Part 1: 
+	Task 1: create graphs on tableau
+	Task 2: AHP identification on factors
+	Task 3: further study on AHP method
+
+	Part 2:
+	Task 1: what more solutions can be found to solve climate change?
+	1. Develop the reginal economy by full utilizing the local advantages.
+	2. Multi-national companies play an important role in this process
+	3. Utilize the internet and sharing economy technology 
+
+	Other:
+	By reading the articles in Nature, we get a new direction of doing statistical analysis under the topic of climate change: 
+	* Integrated assessment modelling
+	* Climate change modelling 
+
+	So, the final question comes to: 
+	* How to convince countries to adopt a sustainable economy?
+	* How to motivate multi-national companies to participate in cross-country cooperation? 
+
+
+
+

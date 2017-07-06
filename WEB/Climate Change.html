@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Climate Change</title>
+		<link rel="stylesheet" type="text/css" href="images/Climate Change.css" />
+		<style>
+			.main0 ul li #div1{
+				display:none;
+			}
+			.main0 ul li:hover #div1{
+				display:block;
+			}
+			.main0 ul li #guidemain p{
+				
+			}
+		</style>
+		<script type="text/javascript">
+			var goToWhere = function (where)
+			{
+				var me = this;
+				clearInterval (me.interval);
+				me.site = [];
+				var dom = !/.*chrome.*/i.test (navigator.userAgent) ? document.documentElement : document.body;
+				var height = !!where ? dom.scrollHeight : 0;
+				me.interval = setInterval (function ()
+				{
+					var speed = (height - dom.scrollTop) / 16;
+					if (speed == me.site[0])
+					{
+						clearInterval (me.interval);
+						return null;
+					}
+					dom.scrollTop += speed;
+					me.site.unshift (speed);
+				}, 16);
+			};
+		</script>
+	</head>
+	<body>
+		<div class="body" id="header"> <!--将头部按功能分块-->
+			<a href="Climate Change.html" title="Global Climate Change"><div class="logo"></div></a>
+			<div class="search"> <!--Search to find infor-->
+				<form action="doc.html">
+					<input class="keywords" type="text" name="keywords" />
+					<input class="btn" type="submit" value="" />
+				</form>
+			</div>
+		</div>		
+		<div class="body" id="main">
+		<div class="main0">
+		<ul>
+			<li>
+				<div id="guidemain"><p>Guide</p></div>
+				<div id="div1">
+					<a href="Climate Change.html">Home</a>
+					<a href="dialy.html" target="_blank">Weeklies</a>
+					<a href="outcome.html" target="_blank">Outcomes</a>
+					<a href="doc.html" target="_blank">Documents</a>
+					<a href="vis.html" target="_blank">Visualization</a>
+					<a href="about.html" target="_blank">About us</a>
+				</div>
+			</li>
+		</ul>
+		</div>	
+		<div id="image">
+		
+		</div>
+		<div id="back-up" onclick="goToWhere(0)" style="text-align:center; line-height:60px; font-size:15px; font-weight:bold; color:white; background:#00AEAE; border: 3px solid #007979; height: 60px; width: 60px; position: fixed; cursor: pointer; right: 10px; bottom: 320px;">TOP</div>
+		<div id="back-up" onclick="goToWhere(1)" style="text-align:center; line-height:60px; font-size:15px; font-weight:bold; color:white; background:#00AEAE; border: 3px solid #007979; height: 60px; width: 60px; position: fixed; cursor: pointer; right: 10px; bottom: 250px;">FOOT</div>
+		<div class="main1" id="daily">
+			<h2><a href="dialy.html" target="_blank">WEEKLIES</a></h2>
+			<p>This is the display board of our team’s daily work. By inspiring brainstorming and the daily meetings conducted, we record down all sorts of ideas and key words of our findings. Please click here for more details about our daily progress. </p>
+		</div>
+		<div class="main1" id="outcome">
+			<h2><a href="outcome.html" target="_blank">OUTCOMES</a></h2>
+			<p>Are you interested in where have we finally arrived at? If the answer is yes, please don’t hesitate to click on this session to have a look at our final report. You can read the abstract part for a glance as a summary of our outcome. Based on various statistical analysis and simulation, we concluded a global governance framework, which compared to the current adopted one, will have distinct advantages on fast response and high involvement among more participating countries. </p>
+		</div>
+		<div class="main1" id="doc">
+			<h2><a href="doc.html" target="_blank">DOCUMENTS</a></h2>
+			<p>During the 3-month research project, we have spent 40% of our time reading the most up-to-date and informative academic articles, which were written by various national scientists and the professors in world-class universities. Standing on the shoulders of giants, we got the chance to locate the problems of the current global governance framework in several specific points, and further seek out the most efficient solution. </p>
+		</div>
+		<div class="main1" id="graph">
+			<h2><a href="vis.html" target="_blank">VISUALIZATION</a></h2>
+			<p>To enable our audience find it easier to understand our project, especially the outcome, we upload various graphs here which can be used as an overview. All the data resources are attached under each graph, for your further interest in the original research.   </p>
+		</div>
+		<div class="main1" id="about">
+			<h2><a href="about.html" target="_blank">ABOUT US</a></h2>
+			<p>This is a team composed of 8 girls from various majors in XJTLU, including Accounting, Economics, Finance, Engineering and Mathematics.
+			<br/><br/>ABOUT XJTLU<br />Founded in 2006, we are the largest international joint venture university in China, a partnership between Xi'an Jiaotong University and the University of Liverpool.
+			<br /><br/>VISION<br />To become a research-led international university in China and a Chinese university recognised internationally for its unique features in learning and teaching, research, social service, and education management.
+			<br /><br/>MISSION<br />Educate technical and managerial professionals with international perspectives and competitive capabilities Integrate global economic and social development with expertise in business and technology With our unique focuses and features, conduct research in areas where humanity faces severe challenges.
+			<br />Explore new models for higher education that will exert a strong influence on the development of education in China and the world.<br />
+			<br /><br/>If you have any futher ideas about climate changes and want to share with us, please <a href="about.html" style="color:#95CACA; text-decoration:underline;" >contact us</a>.
+			</p>
+		</div>
+		</div>	
+		<div class="body" id="footer">
+			<div class="ftop">
+				<a href="Climate Change.html" title="Global Climate Change"><div class="logo"></div></a>
+				<span><a href="#" target="_blank">Global Challenges@XJTLU</a></span>
+			</div>
+			<div class="fbottom">
+				<p>E-mail:......</p>
+				<p>Address:......</p>
+			</div>
+		</div>
+
+	</body>
+</html>
